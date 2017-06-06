@@ -1,0 +1,14 @@
+Un tipo de archivo en el que todos los valores están delimitados por comas.
+csv
+
+Extension de los archivos de Ruby
+.rb
+
+Herramienta unica de Ruby donde se pueden almacenar Constantes, métodos y hasta clases y puede ser incluido en clases externas
+modulo
+
+Nombre de metodo de Ruby que permite recorrer arreglos
+each
+
+Estructura de datos que consta de una llave y un valor
+hash
